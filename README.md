@@ -1,4 +1,4 @@
-<h3 align="center">A full stack Threads Clone</h3>
+<h3 align="center">A full stack Threads</h3>
 
 ## <a name="introduction">🤖 Introduction</a>
 
